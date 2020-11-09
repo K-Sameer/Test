@@ -1,0 +1,19 @@
+{
+	"components": {
+	    "x-552954-card-list": {
+	        "innerComponents": [
+				"now-card",
+				"now-template-card",
+				"now-template-card-attachment",
+				"now-template-card-omnichannel"],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "My Card List Component",
+				"icon": "document-outline",
+				"description": "Card list component",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_552954_test_ca_0"
+}

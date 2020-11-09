@@ -1,0 +1,20 @@
+{
+	"components": {
+	    "x-552954-incident-list": {
+	        "innerComponents": [
+				"now-card",
+				"now-template-card",
+				"now-template-card-attachment",
+				"now-template-card-omnichannel"
+			],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "My incident list Component",
+				"icon": "document-outline",
+				"description": "My incident list Component",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_552954_test_in_0"
+}
